@@ -1,2 +1,3 @@
 # compressor_decompressor
-Technology Used:-
+Technology Used :-
+1. Java & Java Swing
